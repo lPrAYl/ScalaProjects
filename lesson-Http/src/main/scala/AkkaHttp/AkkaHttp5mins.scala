@@ -1,4 +1,4 @@
-package scalatips
+package AkkaHttp
 
 import akka.actor.ActorSystem
 import akka.http.scaladsl.{Http, model}
